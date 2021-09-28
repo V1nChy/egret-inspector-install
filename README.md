@@ -45,20 +45,17 @@ Egret Inspector 2.5.5
   }, 200);
 ```
 
-### 直接使用
+### 使用步骤
 ```shell
-git clone https://github.com/jsl6/EgretInspector-install.git
+git clone https://github.com/V1nChy/egret-inspector-install.git
 ```
 
-打开chrome 扩展程序，开发模式下，加载已解压的扩展程序  
+打开chrome 扩展程序，开启“开发模式”，点击“加载已解压的扩展程序”  
 ![extend](https://github.com/jsl6/EgretInspector-install/blob/master/docs/extend.jpg?raw=true)
 
-选择前面EgretInspector-install即可。  
-这时打开Egret运行页面，插件不会报错。  
+选择clone的工程根目录EgretInspector-install即可。  
+这时打开浏览器开发者工具，就会多出egret页签  
 ![EgretInspector](https://github.com/jsl6/EgretInspector-install/blob/master/docs/egret-inspector.jpg?raw=true)
-
-亲测Chrome 87.0.4280.141（正式版本）有效 - 20210113更新。  
-修改基于：EgretInspector-v2.5.5。
 
 ### 官方使用手册
 https://docs.egret.com/inspector/docs/plugin/introduction
